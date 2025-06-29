@@ -341,10 +341,6 @@
       </a><br>
       FrontEnd │ BackEnd
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td align="center">
       <strong>홍정인</strong><br>
       <a href="https://github.com/hongjungin">
